@@ -1,6 +1,5 @@
 import requests
 import typer
-from dataclasses import dataclass
 import os
 
 app = typer.Typer()
