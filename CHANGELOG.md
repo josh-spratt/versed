@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.2.0 (2024-03-21)
+
+Removing dependencies
+
+### Features
+
+* Refactored to remove unneeded deps on:
+    * Typer
+    * Requests
+
 ## 0.1.1 (2024-03-21)
 
 Cleanup
