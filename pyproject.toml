@@ -1,6 +1,6 @@
 [project]
 name = "versed"
-version = "0.1.1"
+version = "0.2.0"
 authors = [
   { name="Josh Spratt", email="jspratt02@icloud.com" },
 ]
@@ -18,5 +18,5 @@ Homepage = "https://github.com/josh-spratt/versed"
 Issues = "https://github.com/josh-spratt/versed/issues"
 
 [build-system]
-requires = ["hatchling", "typer", "requests"]
+requires = ["hatchling"]
 build-backend = "hatchling.build"
