@@ -16,10 +16,10 @@ Describe the tests you implemented to ensure your changes work as expected.
 
 ## Checklist
 
-[] I have performed a self-review of my code.
-[] All new code is documented with comments.
-[] The code changes pass all existing tests.
-[] (Optional) I have added new unit tests for the changes introduced.
+[ ] I have performed a self-review of my code.
+[ ] All new code is documented with comments.
+[ ] The code changes pass all existing tests.
+[ ] (Optional) I have added new unit tests for the changes introduced.
 
 ## Additional Notes
 Add any additional information reviewers may need to understand your changes.
